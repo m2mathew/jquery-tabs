@@ -1,0 +1,56 @@
+body {
+  text-align: left;
+  font-family: 'Palatino Linotype'; }
+
+nav {
+  width: 100%;
+  background-image: url("../images/header-blueBurst.jpg");
+  background-size: tile; }
+  nav #nav-bar {
+    margin: 2em;
+    font-size: 1.25em;
+    font-weight: bold; }
+  nav #red-tab {
+    display: inline-block;
+    margin-left: 0.5em;
+    margin-top: 4.25em;
+    margin-right: -6px;
+    background-color: #eee;
+    font-weight: bold;
+    border-top-left-radius: 5px; }
+    nav #red-tab:hover {
+      background-color: #FE3101; }
+  nav #green-tab {
+    display: inline-block;
+    background-color: #eee;
+    font-weight: bold;
+    margin-right: -6px; }
+    nav #green-tab:hover {
+      background-color: #03F667; }
+  nav #blue-tab {
+    display: inline-block;
+    background-color: #eee;
+    font-weight: bold;
+    border-top-right-radius: 5px; }
+    nav #blue-tab:hover {
+      background-color: #56ABFB; }
+  nav #nav-title {
+    float: right;
+    border: none;
+    color: #eee; }
+
+span {
+  border: 2px solid #222;
+  padding: 1em 2em; }
+
+.content-box {
+  height: 700px;
+  padding: 5em 5em 10em 5em;
+  font-size: 1.25em;
+  background-color: #eee; }
+  .content-box #red-content {
+    display: none; }
+  .content-box #green-content {
+    display: none; }
+  .content-box #blue-content {
+    display: none; }
