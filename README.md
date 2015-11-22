@@ -46,7 +46,7 @@ After completing this assignment, you be able to effectively use
 ## Normal Mode
 Replicate the following behavior using jQuery.
 
-![Example](/tabs.gif)
+![Example](https://github.com/TIY-Austin-Front-End-Engineering/jquery-tabs/blob/master/tabs.gif)
 
 ## Hard Mode
 
