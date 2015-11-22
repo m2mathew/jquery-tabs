@@ -16,9 +16,9 @@ function showRed() {
     $blueContent.hide();
     $redContent.show();
 
-    $greenTab.css({backgroundColor: '#eee'});
-    $blueTab.css({backgroundColor: '#eee'});
-    $redTab.css({backgroundColor: '#FE3101'});
+    $greenTab.css({ backgroundColor: '#eee' });
+    $blueTab.css({ backgroundColor: '#eee' });
+    $redTab.css({ backgroundColor: '#FE3101' });
 }
 
 function showGreen() {
@@ -26,9 +26,9 @@ function showGreen() {
     $blueContent.hide();
     $greenContent.show();
 
-    $redTab.css({backgroundColor: '#eee'});
-    $blueTab.css({backgroundColor: '#eee'});
-    $greenTab.css({backgroundColor: '#03F667'});
+    $redTab.css({ backgroundColor: '#eee' });
+    $blueTab.css({ backgroundColor: '#eee' });
+    $greenTab.css({ backgroundColor: '#03F667' });
 }
 
 function showBlue() {
@@ -36,9 +36,9 @@ function showBlue() {
     $greenContent.hide();
     $blueContent.show();
 
-    $redTab.css({backgroundColor: '#eee'});
-    $greenTab.css({backgroundColor: '#eee'});
-    $blueTab.css({backgroundColor: '#56ABFB'});
+    $redTab.css({ backgroundColor: '#eee' });
+    $greenTab.css({ backgroundColor: '#eee' });
+    $blueTab.css({ backgroundColor: '#56ABFB' });
 }
 
 // events
